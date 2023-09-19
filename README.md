@@ -2,4 +2,4 @@ i have used proper folder structuring to write my code and code splitting but th
 
 here is the proper code with proper code structuring please have a look
 
-github:
+github:https://code-decode-developer-assignment.vercel.app/
